@@ -6,4 +6,6 @@
 <h2>making the second commit India guy</h2>
 <h3> made changes from US guy </h3>
 
-<h4>direct changes to master </h4>
+<h4>checking develop branch</h4>
+<h2>checking develop branch from US guy </h2>
+
